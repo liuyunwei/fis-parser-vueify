@@ -1,0 +1,28 @@
+{
+  "name": "fis-parser-vueify",
+  "version": "1.0.0",
+  "description": "the .vue file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyunwei/fis-parser-vueify.git"
+  },
+  "keywords": [
+    "fis",
+    "vue",
+    "parser"
+  ],
+  "author": "liuyunwei <liuyunwei@yanxiu.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyunwei/fis-parser-vueify/issues"
+  },
+  "homepage": "https://github.com/liuyunwei/fis-parser-vueify#readme",
+  "dependencies": {
+    "deasync": "^0.1.9",
+    "vueify": "^9.3.0"
+  }
+}
