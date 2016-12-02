@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-vueify",
-  "version": null,
+  "version": "1.0.0.1",
   "description": "the .vue file",
   "main": "index.js",
   "scripts": {
